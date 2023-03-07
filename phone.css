@@ -1,0 +1,269 @@
+@media screen and (max-width:700px) {
+
+    #head {
+        text-align: center;
+        margin-top: 47px;
+    }
+    #head1 {
+        font-size: 27px;
+    }
+    .big {
+        font-size: 40px;
+    }
+    .round {
+        margin-top: 20px;
+        text-align: center;
+        margin-bottom: -297px;
+    }
+    .img1 {
+        text-align: center;
+        position: relative;
+        top: 65px;
+    }
+    a {
+        text-decoration: none;
+    }
+    #language {
+        color: rgba(0, 0, 255, 0.74);
+        font-size: 16px;
+        font-weight: bold;
+        margin-bottom: 5px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    #plus {
+        color: rgba(0, 0, 0, 0.712);
+        font-size: 14px;
+    }
+    #one {
+        position: relative;
+        top: -182px;
+        left: -133px;
+    }
+    #two {
+        position: relative;
+        top: -160px;
+        left: -190px;
+    }
+    #three {
+        position: relative;
+        top: -142px;
+        left: -200px;
+    }
+    #four {
+        position: relative;
+        top: -120px;
+        left: -187px;
+    }
+    #five {
+        position: relative;
+        top: -100px;
+        left: -137px;
+    }
+    #six {
+        position: relative;
+        top: -403px;
+        left: 135px;
+    }
+    #seven {
+        position: relative;
+        top: -382px;
+        left: 188px;
+    }
+    #eight{
+        position: relative;
+        top: -360px;
+        left: 200px;
+    }
+    #nine {
+        position: relative;
+        top: -340px;
+        left: 190px;
+    }
+    #ten {
+        position: relative;
+        top: -320px;
+        left: 132px;
+    }
+    .input {
+        /* text-align: center; */
+        margin-left: 447px;
+        /* background-color: red; */
+    }
+    input {
+        border: 1px solid rgba(0, 0, 0, 0.363);
+        width: 29vw;
+        height: 6.5vh;
+        /* background-color: red; */
+        margin-left: -300px;
+        
+    }
+    #search {
+        border: 1px solid #0e58ec ;
+        padding: 7.8px;
+        padding-right: 20px;
+        border-top-right-radius: 3px;
+        border-bottom-right-radius: 3px;
+        position: relative;
+        top: 7px;
+        left: -26px;
+        background-color:  #0e58ec;
+    }
+    #imgSearch {
+        margin-left: 15px;
+    }
+    ::placeholder {
+        position: relative;
+        text-align: right;
+        
+        
+     
+        
+    }
+    
+    
+    #select1 {
+        position: relative;
+        left: -40px;
+        border: 0px solid;
+        color: rgba(0, 0, 0, 0.363);
+    }
+    .read {
+        margin: 32px 10px 0px 10px;
+        border-bottom: 1px solid #C8CCD1;
+        margin-left: -400px;
+    }
+    #button2 {
+        padding: 8px;
+        margin-left: 522px;
+        background-color: white;
+        border: 1px solid rgba(0, 0, 0, 0.363);
+    }
+    #spanRead {
+        color:  #3366CC;
+        font-weight: 600;
+        font-size: 14px;
+    }
+    #select2 {
+        border: 0px;
+        color: rgba(0, 0, 255, 0.637);
+    }
+    #line1 {
+        color: rgba(0, 0, 0, 0.363);
+        position: relative;
+        top: -30px;
+        left: 445px;
+    }
+    #line2 {
+        color: rgba(0, 0, 0, 0.363);
+        position: relative;
+        top: -48px;
+        left: 850px;
+    }
+    .wiki {
+        display: flex;
+        border: 0px solid #C8CCD1;
+        border-bottom: 1px solid #C8CCD1;
+        height: 65vh;
+        padding-left: 75px;
+        font-family: sans-serif;
+        gap: 50px;
+    }
+    .wiki1 {
+        border: 1px;
+        margin-top: 40px;
+        width: 17vw;
+        height: 50vh;
+    }
+    #one1 {
+        height: 17vh;
+    }
+    #wikiW {
+        width: 21vw;
+        margin-right: 80px;
+    }
+    #para1 {
+        font-size: 13px;
+        color: rgba(0, 0, 0, 0.541);
+        margin: 10px 0px 0px 0px;
+        position: relative;
+        top: -50px;
+        left: 50px;
+        line-height: 18px;
+        text-justify: auto;
+        
+        
+    }
+    #href1 {
+        color: #3379D9;
+        font-weight: 100;
+        
+        
+    } 
+    
+    
+    #imgVnd {
+        box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.452);
+        width: 20px;
+        height: 20px;
+        border-radius: 4px;
+    
+    
+    }
+    
+    #two2 {
+        height: 30vh;
+        width: 25vw;
+        background-color: #F8F9FA;
+        padding-left: 10px;
+        padding-top: 10px;
+        top: 10vw;
+        background-color: red;
+        
+    }
+    #href2 {
+        font-size: 13.5px;
+        color: rgba(0, 0, 255, 0.74);
+        font-weight: bold;
+        line-height: 55px;
+    }
+    .image {
+        margin-left: 47px;
+        position: absolute;
+        top: 135%;
+
+    
+    
+        
+        
+        
+    }
+    #border {
+        border: 1px;
+        margin-bottom: 10px;
+    }
+    #spanOne {
+        font-size: 14px;
+        color: #3379D9;
+        position: relative;
+        top: -45px;
+        left: 45px;
+    } 
+    #spanTwo {
+        font-size: 13px;
+        color: rgba(0, 0, 0, 0.541);
+        position: relative;
+        top: -45px;
+        left: 45px;
+    }
+    
+    .get {
+        position: absolute;
+        left: 350px;
+        top: 1110px;
+    }
+    
+    #me {
+        color: #0e58ec;
+    }
+    
+}

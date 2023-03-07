@@ -7,7 +7,7 @@ body {
     overflow-x: hidden;
 }
 section {
-    border: 1px solid blue;
+    border: 1px;
     height: 166.5vh;
 }
 #head {
@@ -104,23 +104,29 @@ input {
     height: 6.5vh;
 }
 #search {
-    border: 0px solid;
+    border: 1px solid #0e58ec ;
     padding: 7.8px;
-    padding-right: 15px;
+    padding-right: 20px;
     border-top-right-radius: 3px;
     border-bottom-right-radius: 3px;
     position: relative;
     top: 6px;
-    left: -31px;
-    background-color: #0e58ec;
+    left: -26px;
+    background-color:  #0e58ec;
 }
 #imgSearch {
-    margin-left: 10px;
+    margin-left: 15px;
 }
 ::placeholder {
     position: relative;
-    left: 340px
+    text-align: right;
+    
+    
+ 
+    
 }
+
+
 #select1 {
     position: relative;
     left: -40px;
@@ -138,8 +144,8 @@ input {
     border: 1px solid rgba(0, 0, 0, 0.363);
 }
 #spanRead {
-    color: rgba(0, 0, 255, 0.74);
-    font-weight: bold;
+    color:  #3366CC;
+    font-weight: 600;
     font-size: 14px;
 }
 #select2 {
@@ -156,19 +162,19 @@ input {
     color: rgba(0, 0, 0, 0.363);
     position: relative;
     top: -48px;
-    left: 800px;
+    left: 850px;
 }
 .wiki {
     display: flex;
-    border: 1px solid red;
-    border-bottom: 1px solid green;
+    border: 0px solid #C8CCD1;
+    border-bottom: 1px solid #C8CCD1;
     height: 65vh;
     padding-left: 75px;
     font-family: sans-serif;
     gap: 50px;
 }
 .wiki1 {
-    border: 1px solid blue;
+    border: 1px;
     margin-top: 40px;
     width: 17vw;
     height: 50vh;
@@ -188,30 +194,52 @@ input {
     top: -50px;
     left: 50px;
     line-height: 18px;
+    text-justify: auto;
+    
+    
 }
 #href1 {
     color: #3379D9;
     font-weight: 100;
-}
+    
+    
+} 
+
+
 #imgVnd {
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.452);
-    width: 45px;
-    border-radius: 3px;
+    width: 20px;
+    height: 20px;
+    border-radius: 4px;
+
 }
+
 #two2 {
-    height: 20vh;
+    height: 30vh;
+    width: 25vw;
+    background-color: #F8F9FA;
+    padding-left: 10px;
+    padding-top: 10px;
+    
 }
 #href2 {
     font-size: 13.5px;
     color: rgba(0, 0, 255, 0.74);
     font-weight: bold;
-    line-height: 30px;
+    line-height: 55px;
 }
-#image {
+.image {
     margin-left: 47px;
+    position: absolute;
+    top: 950px;
+
+
+    
+    
+    
 }
 #border {
-    border: 1px solid green;
+    border: 1px;
     margin-bottom: 10px;
 }
 #spanOne {
@@ -227,4 +255,14 @@ input {
     position: relative;
     top: -45px;
     left: 45px;
-} 
+}
+
+.get {
+    position: absolute;
+    left: 350px;
+    top: 1110px;
+}
+
+#me {
+    color: #0e58ec;
+}
